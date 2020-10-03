@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/amajor/PinballMachine.svg?branch=master)](https://travis-ci.com/amajor/PinballMachine)
+
 # PinballMachine
 This is a very simple example using the State pattern.
 
